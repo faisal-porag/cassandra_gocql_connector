@@ -1,6 +1,13 @@
 # cassandra_gocql_connector
 
 
+#### FIRST RUN THE SCRIPT TO DOWNLOAD THE GOCQL PACKAGE 
+---
+
+```sh
+go get github.com/gocql/gocql
+```
+
 
 ```sh 
 
